@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+.style-button {
+  background-color: transparent;
+  border: 1px solid #0284c7;
+  border-radius: 15px;
+  color: #0284c7;
+}
